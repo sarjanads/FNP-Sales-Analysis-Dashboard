@@ -61,7 +61,7 @@ Three linked tables, all included in this repo:
 ---
 
 ## 💡 Key Insights
-- - **Revenue is concentrated in a few months.** August (~₹7.4 lakh) and February (~₹7.0 lakh) are the peaks, with smaller peaks in March and November; other months stay near ₹1–1.5 lakh. August lines up with Raksha Bandhan, the second-highest occasion. February's peak is larger than Valentine's Day revenue alone (~₹3.3 lakh), so other occasions also contribute.
+- **Revenue is concentrated in a few months.** August (~₹7.4 lakh) and February (~₹7.0 lakh) are the peaks, with smaller peaks in March and November; other mont   stay near ₹1–1.5 lakh. August lines up with Raksha Bandhan, the second-highest occasion. February's peak is larger than Valentine's Day revenue alone (~₹3.3 lakh), so other occasions also contribute.
 - **Colors is the top-earning category**, ahead of Soft Toys and Sweets. 
 - **Anniversary is the top occasion by revenue**, followed by Raksha Bandhan. 
 - **Order volume is spread across many cities.** The top 10 cities each have fewer than 30 orders, so no single city dominates. 
