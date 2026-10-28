@@ -61,7 +61,7 @@ Three linked tables, all included in this repo:
 ---
 
 ## 💡 Key Insights
-- **Revenue is concentrated in a few months.** Revenue peaks in February and August, with smaller peaks in March and November, and stays much lower in the other months. This matches Valentine's Day and Raksha Bandhan season. 
+- - **Revenue is concentrated in a few months.** August (~₹7.4 lakh) and February (~₹7.0 lakh) are the peaks, with smaller peaks in March and November; other months stay near ₹1–1.5 lakh. August lines up with Raksha Bandhan, the second-highest occasion. February's peak is larger than Valentine's Day revenue alone (~₹3.3 lakh), so other occasions also contribute.
 - **Colors is the top-earning category**, ahead of Soft Toys and Sweets. 
 - **Anniversary is the top occasion by revenue**, followed by Raksha Bandhan. 
 - **Order volume is spread across many cities.** The top 10 cities each have fewer than 30 orders, so no single city dominates. 
@@ -79,7 +79,7 @@ Three linked tables, all included in this repo:
 
 ## ⚠️ Limitations
 - The analysis covers 1,000 orders, so city-level counts are small and should be read with care.
-- The dashboard shows patterns, not causes. For example, the seasonal peaks match festivals, but the data doesn't prove festivals are the reason.
+- The dashboard shows patterns, not causes. For example, The seasonal peaks are not fully explained by single occasions, so the data doesn't prove what drives them.
 - The dashboard has no profit or cost data, so it measures revenue, not profitability.
 
 ---
