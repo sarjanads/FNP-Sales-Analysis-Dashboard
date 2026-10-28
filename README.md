@@ -99,7 +99,6 @@ Three linked tables, all included in this repo:
 - [Fnp_Analysis.xlsx](Fnp_Analysis.xlsx): the dashboard
 - [Fnp_Dashboard.png](Fnp_Dashboard.png): dashboard screenshot
 - [orders.csv](orders.csv) · [customers.csv](customers.csv) · [products.csv](products.csv): source data
-- README.md: this file
 
 ---
 
