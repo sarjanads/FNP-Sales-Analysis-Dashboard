@@ -45,7 +45,7 @@ Three linked tables, all included in this repo:
 **KPI cards**
 - Total Orders: **1,000**
 - Total Revenue: **₹35,20,984**
-- Average Delivery Time: **5.53**
+- Average Delivery Time: **5.53 days**
 - Average Customer Spend: **₹3,520.98**
 
 **Charts**
